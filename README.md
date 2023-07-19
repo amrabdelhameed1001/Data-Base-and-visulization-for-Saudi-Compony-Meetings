@@ -8,6 +8,9 @@
 
 - The fourth page includes general statistics for employee attendance and their completion rate.
 
-Note: The data and identity of the company group have been changedز
+Note: The data and identity of the company group have been changed.
+
+![Screenshot 2023-07-20 011339](https://github.com/amrabdelhameed1001/Data-Base-and-visulization-for-Saudi-Compony-Meetings/assets/85768785/716d3430-f2cc-42e3-95e4-fc8e55f9d4f2)
+
 
 
